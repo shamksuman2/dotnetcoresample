@@ -1,0 +1,11 @@
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.deps.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.runtimeconfig.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.runtimeconfig.dev.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.pdb
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.csprojResolveAssemblyReference.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.csproj.CoreCompileInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.AssemblyInfoInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.AssemblyInfo.cs
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\WebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.pdb
